@@ -2,4 +2,4 @@
 - 👀 I’m interested in study ML and also other areas from data science
 - 🌱 I’m currently learning a LOT of new stuff, from ML to data enginnering, i've been studing a lot.
 - 💞️ I’m looking to collaborate on any ML project, but be aware i'm only a begginer
-- 📫 How to reach me.. i guess u cand find your way if u'r really interested
+- 📫 How to reach me.. i guess u can find your way if u'r really interested
